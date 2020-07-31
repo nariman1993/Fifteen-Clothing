@@ -1,0 +1,29 @@
+@import './variables';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    // background-color: rgb(121, 121, 121);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
+
+p{
+    color: $text_color;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
