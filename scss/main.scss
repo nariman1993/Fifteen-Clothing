@@ -69,7 +69,7 @@ nav{
 }
 
 .hero{
-    background-image: url('../img/slide_01.jpg');
+    background-image: url('https://images.pexels.com/photos/1884581/pexels-photo-1884581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -95,6 +95,7 @@ nav{
         text-align: center;
         font-size: 62px;
         letter-spacing: 5px;
+        text-shadow: 5px 5px $second_color;
     }
 
 }
